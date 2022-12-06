@@ -1,0 +1,19 @@
+- name: Dr. Tahiry Rajaonarison
+  photo: Tahiry.jpg
+  info: Postdoctoral Associate
+  email: tahiry.rajaonarison@nmt.edu
+  github: https://github.com/trajaona
+  researchgate: https://www.researchgate.net/profile/Tahiry-Rajaonarison
+  scholar: https://scholar.google.com/citations?user=IanJkF8AAAAJ&hl=en&oi=ao
+  cv: https://github.com/sbryngelson/cv/blob/master/cv_trajaona.pdf
+  number_educ: 5
+  education1: (2022- ) Postdoctoral Associate, New Mexico Tech (with <a href="https://www.nmt.edu/academics/ees/" target="_blank">Department of Earth and Environnemental Science</a>)
+  education2: (2020) Ph.D. Geophysics, Virginia Tech (with <a href="https://www.vt.edu/" target="_blank">Department of Geosciences</a>)
+  education3: (2014) Postgraduate Diploma, Earth System Physics, Abdus Salam International Center of Theoretical Physics, Italy (with <a href="https://www.ictp.it/" target="_blank">Abdus Salam ICTP</a>)
+  education4: (2013) M.S.  Geophysics, University of Antananarivo (Institue and Observatory of Geophysics in Antananarivo, Madagascar)
+  education5: (2010) B.S.  Physics, University of Antananarivo
+  education1short: (2022- ) Postdoc, NMT
+  education2short: (2020) Ph.D.  VT, Blacksburg, VA
+  education3short: (2014) Postgraduate  ICTP, Italy
+  education4short: (2013) M.S. UA, Madagascar
+  education5short: (2010) B.S. UA, Madagascar
