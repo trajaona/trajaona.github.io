@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tahiry Rajaonarison"
 title_separator          : "-"
 name                     : &name "Tahiry Rajaonarison"
-description              : &description "I am Postodctoral Associate at New Mexico Tech. PhD. in Geophysics (2020)"
+description              : &description "I am Postodctoral Associate at New Mexico Tech. Ph.D. in Geophysics (2020)"
 url                      : https://trajaona.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "trajaona/trajaona.github.io"
@@ -89,6 +89,7 @@ author:
    New Mexico Institue of Mining and Technology <br/>
    801 Leroy Place<br/>
    Socorro, NM 87801<br/>
+
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=IanJkF8AAAAJ&hl=en&oi=ao"
