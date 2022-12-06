@@ -15,7 +15,7 @@ url                      : https://trajaona.github.io # the base hostname & prot
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "trajaona/trajaona.github.io"
 header:
-  teaser: /assets/images/Tahiry_header.jpg
+  teaser: /images/Tahiry_header.jpg
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -83,7 +83,8 @@ analytics:
 author:
   name             : "Tahiry Rajaonarison"
   avatar           : "Tahiry.png"
-  bio              : "I am a Postdoctoral Associate at New Mexico Tech. Ph.D. in Geophysics (2020)"
+  bio              : "I am a Postdoctoral Associate at New Mexico Tech. 
+                     Ph.D. in Geophysics (2020)"
   location: >
    Coordinates: <br/>
    MSEC Building 304 <br/>
