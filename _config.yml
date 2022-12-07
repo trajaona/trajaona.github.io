@@ -88,7 +88,7 @@ author:
   location: >
    Coordinates: <br/>
    MSEC Building 304 <br/>
-   New Mexico Institue of Mining and Technology <br/>
+   New Mexico Tech <br/>
    801 Leroy Place<br/>
    Socorro, NM 87801<br/>
 
@@ -129,6 +129,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _data
   - files
 exclude:
   - "*.sublime-project"
