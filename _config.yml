@@ -275,6 +275,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirectfrom
   - jekyll-include-cache 
+  - minimal-mistakes-jekyll
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
