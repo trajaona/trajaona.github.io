@@ -15,7 +15,7 @@ url                      : https://trajaona.github.io # the base hostname & prot
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "trajaona/trajaona.github.io"
 header:
-  teaser: Tahiry_header.jpg
+  image: /assets/images/Tahiry_header_new.jpg
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -274,7 +274,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-redirect-from
+  - jekyll-redirectfrom
+  - jekyll-include-cache 
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
