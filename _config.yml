@@ -14,7 +14,6 @@ description              : &description "I am Postodctoral Associate at New Mexi
 url                      : https://trajaona.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "trajaona/trajaona.github.io"
-header:
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -70,6 +69,8 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+header:
+  overlay_image: tahiry_header_new.jpg
 
 # Analytics
 analytics:
