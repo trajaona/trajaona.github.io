@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV in pdf here](http://academicpages.github.io/files/Rajaonarison_Tahiry_CV_2023.pdf)
+[Download CV in pdf here](https://github.com/trajaona/trajaona.github.io/blob/master/files/Rajaonarison_Tahiry_CV_2023.pdf)
 
 Education
 ======
