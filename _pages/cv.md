@@ -8,33 +8,61 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download CV in pdf here](http://academicpages.github.io/files/Rajaonarison_Tahiry_CV_2023.pdf)
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2015 – 2020: **Ph.D**, Geophysics, Virginia Tech, Blacksburg, Virginia, U.S.
+  * ***Emphasis***: Geodynamic modelling, Geodesy
+  * ***Advisor***: D. Sarah Stamps 
+* 2013 – 2014: **Postgraduate Diploma**, Earth System Physics Abdus Salam International Center of Theoretical Physics, Italy                 
+  * ***Emphasis***: Seismology, GNSS Geodesy, rock mechanics
+  * ***Advisor***: Abdel Karim Aoudia
+* 2011 - 2013: **M.S**, Geophysics, University of Antananarivo, Madagascar
+  * ***Emphasis***: Geophysics, Geodesy, Applied Geophysics
+  * ***Advisor***: Gerard Rambolamana
+* 2007 – 2010: **B.S**, Physics, University of Antananarivo
+  * ***Emphasis***: Physics
 
-Work experience
+Professional appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 – Present: **Postdoctoral Associate** 
+  * Department of Earth and Environment Sciences, New Mexico Institute of Mining and Technology, USA               
+  * Duties included: Research 
+  * Supervisor: John Naliboff
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2020 – 2021: **Research Scientist**
+  * Institute and Observatory of Geophysics in Antananarivo (IOGA), University of Antananarivo, Madagascar
+  * Duties included: teaching, field work
+
+* 2015 – 2020: **Research Assistant**
+  * Virginia Tech
+  * Duties included: teaching, field work
+  * Supervisor: Sarah Stamps
+
+* 2014: **Lecturer** 
+  * Institute and Observatory of Geophysics in Antananarivo (IOGA), University of Antananarivo, Madagascar
+  * Duties included: teaching Seismology
+  * Supervisor: Gerard Rambolamana (Head of IOGA)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Skills
+  * 3D Visualization with Visit and Paraview
+  * ArcGIS
+  * Generic Mapping Tools (GMT)
+  * GitHub 
+  * LaTeX
+  * Dealii
+  * Coulomb 3.4   
+  * GAMIT-GLOBK GNSS/GPS processing software maintained at MIT (requires knowledge of RINEX and BINEX geoscience data standards for GNSS/GPS data)
+  
+* Programming
+  * SHELLS, AWK, vi	
+  * C++
+  * Python
+  * Matlab
+  * SQL
 
 Publications
 ======
