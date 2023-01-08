@@ -188,7 +188,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-    cv:
+  cv:
     output: true
     permalink: /:collection/:path/
   publications:

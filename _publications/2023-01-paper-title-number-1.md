@@ -1,0 +1,14 @@
+---
+title: "Localization of Large Intraplate Earthquakes along Faulted Deep-Reaching Density-Contrast Boundaries: Insights from the 2017 Mw6.5 Botswana Earthquake"
+collection: publications
+permalink: /publication/2023-01-01-paper-title-number-1
+excerpt: 'This paper is about the how crustal-scale density contrast boundaries concentrate strain and localize intraplate earthquakes.'
+date: 2023-01-01
+venue: 'Journal of African Earth Sciences'
+paperurl: 'https://doi.org/10.1016/j.jafrearsci.2022.104752'
+citation: 'Chisenga, C., Kolawole, F., Rajaonarison, T., Atekwana, E. A., Yan, J., & Shemang, E. M. (2023). Localization of large intraplate earthquakes along faulted density-contrast boundaries: Insights from the 2017 Mw6. 5 Botswana earthquake. Journal of African Earth Sciences, 197, 104752. doi:'
+---
+The major controls on the localization of deep crustal intraplate earthquakes remain enigmatic due to their deep hypocentral depths and rarity of coseismic surface ruptures. Here, we investigate the 3-D crustal density structure of the 2017 Mw 6.5 Botswana earthquake epicentral region, a strong lower-crustal (∼24–29 km) event which is suspected to have reactivated a Precambrian structure via normal faulting. We perform a 3-D inversion of the gravity data using published geological constraints, then integrate the resulting density model with aftershock hypocenter distribution and use as constraints in a 3-D thermo-mechanical geodynamic model implemented in ASPECT. Our results reveal crustal blocks of density anomalies, with the aftershocks clustering along a prominent NW-trending, NE-dipping density contrast separating a high-density (>2708 kg/m3) footwall and lower-density (2670–2700 kg/m3) hanging wall blocks. Additionally, a secondary density contrast boundary in the hanging wall coincides with a splay of aftershock clusters at depth. Our observations suggest that the 2017 Mw6.5 Botswana earthquake nucleated near a fault intersection in the lower crust and is associated with brittle normal faulting reactivation of a long-lived basement fault that follows a prominent deep-reaching density contrast boundary. Further, as demonstrated by geodynamic modeling results, we argue that in regions of low tectonic loading rates, where stress perturbations are high enough, faulted crustal-scale density contrast boundaries are preferential concentrators of strain that may localize intraplate earthquakes.
+[Download paper here](http://trajaona.github.io/files/Chisenga_etal_2023.pdf)
+
+Recommended citation: Chisenga, C., Kolawole, F., **Rajaonarison, T.**, Atekwana, E. A., Yan, J., & Shemang, E. M. (2023). Localization of large intraplate earthquakes along faulted density-contrast boundaries: Insights from the 2017 Mw6. 5 Botswana earthquake. Journal of African Earth Sciences, 197, 104752.

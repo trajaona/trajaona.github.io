@@ -1,0 +1,14 @@
+---
+title: "Lithospheric Structure of the Malawi Rift: Implications for Magma-Poor Rifting Processes"
+collection: publications
+permalink: /publication/2019-10-19-paper-title-number-5
+excerpt: 'Lithospheric Structure of the Malawi Rift: Implications for Magma-Poor Rifting Processes'
+date: 2019-10-19
+venue: 'Tectonics'
+paperurl: 'https://doi.org/10.1029/2019TC005549'
+citation: 'Njinju, E. A., Atekwana, E. A., Stamps, D. S., Abdelsalam, M. G., Atekwana, E. A., Mickus, K. L., **Rajaonarison, T. A.**, Nyalugwe, V. N. (2019). Lithospheric structure of the Malawi Rift: Implications for magma‐poor rifting processes. Tectonics, 38(11), 3835-3853. doi:'
+---
+Our understanding of how magma-poor rifts accommodate strain remains limited largely due to sparse geophysical observations from these rift systems. To better understand the magma-poor rifting processes, we investigate the lithospheric structure of the Malawi Rift, a segment of the magma-poor western branch of the East African Rift System. We analyze Bouguer gravity anomalies from the World Gravity Model 2012 using the two-dimensional (2-D) radially averaged power-density spectrum technique and 2-D forward modeling to estimate the crustal and lithospheric thickness beneath the rift. We find: (1) relatively thin crust (38–40 km) beneath the northern Malawi Rift segment and relatively thick crust (41–45 km) beneath the central and southern segments; (2) thinner lithosphere beneath the surface expression of the entire rift with the thinnest lithosphere (115–125 km) occurring beneath its northern segment; and (3) an approximately E-W trending belt of thicker lithosphere (180–210 km) beneath the rift's central segment. We then use the lithospheric structure to constrain three-dimensional numerical models of lithosphere-asthenosphere interactions, which indicate ~3-cm/year asthenospheric upwelling beneath the thinner lithosphere. We interpret that magma-poor rifting is characterized by coupling of crust-lithospheric mantle extension beneath the rift's isolated magmatic zones and decoupling in the rift's magma-poor segments. We propose that coupled extension beneath rift's isolated magmatic zones is assisted by lithospheric weakening due to melts from asthenospheric upwelling whereas decoupled extension beneath rift's magma-poor segments is assisted by concentration of fluids possibly fed from deeper asthenospheric melt that is yet to breach the surface.
+[Download paper here](http://trajaona.github.io/files/Njinju_etal_2019.pdf)
+
+Recommended citation: Njinju, E. A., Atekwana, E. A., Stamps, D. S., Abdelsalam, M. G., Atekwana, E. A., Mickus, K. L., **Rajaonarison, T. A.**, Nyalugwe, V. N. (2019). Lithospheric structure of the Malawi Rift: Implications for magma‐poor rifting processes. Tectonics, 38(11), 3835-3853. doi:
