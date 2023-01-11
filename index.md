@@ -4,7 +4,7 @@ author_profile: true
 excerpt: "Postdoctoral Associate <br> New Mexico Institute of Mining and Technology"
 header:
     overlay_image: header.png
-    overlay_filter: 0.01
+    overlay_filter: 0.4
     caption: "Photo Credit: **M. Razafindranaivo**"
 ---
 ---
@@ -16,6 +16,6 @@ header:
 # Software
 I am user and contributor of the open-source code [ASPECT](https://aspect.geodynamics.org/).
 
-![Animation](/images/animation1.gif)
+![](/images/animation1.gif)
 Generic temporal evolution of two phase orthogonal and oblique continental rifting caculated with [ASPECT](https://aspect.geodynamics.org/)
 ---
