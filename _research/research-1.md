@@ -8,7 +8,7 @@ header:
     overlay_filter: 0.4
 
 research1:
-  - image_path: research2.jpg
+  - image_path: research2.png
     excerpt: "Rifts and rifted continental margins host significant natural resources, such as groundwater and geothermal energy, but the distribution of those resources depends on the rift evolution which in turns is controlled various geological factors. I investigate how pre-existing fabrics and inherited structures influenced the present-day rift architecture of the obliquely-rifted Margin in SE Brazil, particularly, the Campos and Santos Basins. To tackle this question, I use time-dependent 3D simulation of continental rifting coupled with landscape evolution model, from initial stage to breakup, of the SE Brazil Margin by incorporating geologic information from plate reconstruction. This state-of-the-art modeling has very high-resolution (< 300 meters)  with up to 400 millions of degrees of freedom (solved on ~1000 of cores) and it is also a 3D rifting model that achieve continental break-up. Results, including active and non-active faults, surface topography, lithospheric/crustal thickness, and surface heat flow, are compared to first order observations and interpreted in terms of the context of two phase rifting (slow orthogonal and fast oblique extension)  in order to shed new light on the dynamics of normal fault networks in space and time."
 
 research2:
