@@ -229,8 +229,9 @@ defaults:
   - scope:
       path: ""
       type: research
+      classes: wide
     values:
-      layout: single
+      layout: archive
       author_profile: true
       share: true
       comments: true
