@@ -53,7 +53,8 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
+# Google Analytics
+google_analytics: G-NKBM7XL0EB
 # Social Sharing
 twitter:
   username               : &twitter
